@@ -6,3 +6,4 @@ Green
 Blue
 Pink
 Purple
+This is a rainbow. 
