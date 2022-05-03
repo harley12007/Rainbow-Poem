@@ -5,6 +5,7 @@ Yellow
 Green
 Unicorn
 Blue
+Indigo
 Pink
 Purple
 These are the colours of the rainbow. 
