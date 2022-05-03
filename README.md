@@ -7,3 +7,4 @@ Blue
 Pink
 Purple
 This is a rainbow. 
+It is beautiful.
